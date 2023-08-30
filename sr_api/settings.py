@@ -40,7 +40,7 @@ DEBUG = 'DEV' in os.environ
 
 # ALLOWED_HOSTS = ['8000-ogc1231-spanishresource-okwc2hijqh5.ws-eu104.gitpod.io']
 
-ALLOWED_HOSTS = ['spanish-resources-5768efbafb33.herokuapp.com/', 'localhost', '8000-ogc1231-spanishresource-okwc2hijqh5.ws-eu104.gitpod.io']
+ALLOWED_HOSTS = ['spanish-resources-5768efbafb33.herokuapp.com', 'localhost', '8000-ogc1231-spanishresource-okwc2hijqh5.ws-eu104.gitpod.io']
 
 
 # Application definition
