@@ -6,6 +6,7 @@ class Post(models.Model):
     image_filter_choices = [
         ('argentina', 'Argentina'),
         ('bolivia', 'Bolivia'),
+        ('canary_islands', 'Canary Islands'),
         ('chile', 'Chile'),
         ('colombia', 'Colombia'),
         ('costa_rica', 'Costa Rica'),
